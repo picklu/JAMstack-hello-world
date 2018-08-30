@@ -17,7 +17,7 @@
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
-    "deploy": "gatsby build && gh-pages -d public -b 'gh-pages'",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public -b gh-pages",
     "develop": "gatsby develop --host='0.0.0.0' --port=8080",
     "format": "prettier --write 'src/**/*.js'",
     "test": "echo \"Error: no test specified\" && exit 1"
