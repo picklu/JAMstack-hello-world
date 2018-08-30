@@ -1,6 +1,6 @@
 {
-  "name": "gatsby-hello-world",
-  "description": "Hello world using Gatsby",
+  "name": "JAMstack-hello-world",
+  "description": "Hello world using JAMstack",
   "version": "1.0.0",
   "author": "Subrata Sarker <subrata_sarker@yahoo.com",
   "dependencies": {
